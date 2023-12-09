@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844847865301",
+    "project_id": "moodtunes-18650",
+    "storage_bucket": "moodtunes-18650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844847865301:android:88e3b0a302d96da208315c",
+        "android_client_info": {
+          "package_name": "com.example.mood_tunes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4_ANRcz2DmbNfBFyZuUCbIm06fE8OaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+{
+ "access_token": "ya29.a0AfB_byAtymr82FbwSu1FWYye3rHBzaOwSoYI1BJUVObOq_xkZ6fsejsAA3fW3JJaFeSdJTHKc_ylzHezVDx5-FJ7PCsqdr5-ZuwRducBS28IfUYDb6dPr5nOegRqhC59AnpF7A8oCyFch7C0Y2mG4ZrCY7952G50LL7PlzjvRNbpRsfsHgaCgYKATkSARESFQHGX2MinRVqeLotf8cfPk5DnObXqA0185",
+ "expires_in": 81921,
+ "refresh_token": "1//0giAW_iKC7dy-CgYIARAAGBASNwF-L9Ir1E7Equ4TT_4izzCbiSyf_EEp6o1nzg4PhjZsF0vygv_mp1UyrkEEtpM5Bq7UiNVRVPs",
+ "scope": "https://www.googleapis.com/auth/youtube",
+ "token_type": "Bearer",
+ "expires_at": 1701867161,
+ "filepath": "backend/oauth.json"
+}
